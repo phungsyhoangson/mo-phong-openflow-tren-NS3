@@ -1,0 +1,2 @@
+Giao thức OpenFlow nói nôm na là phần giữ chức năng chuyển dữ liệu từ các máy tính cơ sở đến SDN Controler và ngược lại trong Hệ thống mạng SDN.
+Gồm có: bảng luồng, Kênh an toàn, OpenFlow Protocol
